@@ -1,3 +1,52 @@
-* {margin: 0; padding: 0; font-family: verdana, colibri }
-html, body {width: 100%; height: 100%; background-color: #f0f0f0}
-#headName {color:red}
+* {
+	margin: 10; 
+	padding: 0; 
+	font-family: verdana, colibri 
+	}
+	
+html, body {
+	width: 100%; 
+	height: 100%; 
+	background-color: #f0f0f0
+	}
+	
+#headName {
+	font-size:200%; 
+	color:teal
+	}
+	
+#docName{
+	fonr-size:150%; 
+	color:gray
+	}
+	
+div.main{
+    padding: 5px;
+}
+
+div.textArea{
+	padding: 5px;
+}
+
+img.normal{
+	height:250px; 
+	margin: 7;
+	float:left;
+	}
+
+p.parameter{
+	display:inline;
+	color:teal;
+	font-weight:bold;
+}
+p.value{
+	display:inline;
+	color:black;
+	font-weight:normal;
+}
+
+p.text 
+{
+	color:black;
+	font-weight:normal;
+}
